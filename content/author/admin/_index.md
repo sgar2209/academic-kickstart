@@ -71,7 +71,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://twitter.com/sgar2209"
 
 [[social]]
-  icon = "fa-linked-in"
+  icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/saulgh"
 
