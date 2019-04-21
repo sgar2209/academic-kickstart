@@ -13,7 +13,7 @@ role = "Management Consulting Manager / PhD Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Universitat Politecnica de Catalunya", url = "https://telecos.upc.edu/en" }, { name = "Universitat de Barcelona", url = "https://www.ub.edu/portal/web/economics-business" }, { name = "Maastricht University", url = "https://www.maastrichtuniversity.nl/research/maastricht-graduate-school-governance" }, { name = "Univesidad Autonoma de Madrid", url = "https://www.catedrauamaccenture.com/en/" },]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -71,7 +71,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://twitter.com/sgar2209"
 
 [[social]]
-  icon = "linked-in"
+  icon = "fa-linked-in"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/saulgh"
 
