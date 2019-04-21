@@ -38,11 +38,7 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD candidate in Economics & Innovation Management"
   institution = "Universidad Autonoma de Madrid"
-<<<<<<< HEAD
   year = 2019
-=======
-  year = Expected 2019
->>>>>>> cb4033715df78745a8b446e35da02fbe5c015a4f
 
 [[education.courses]]
   course = "MSc in Public Policy (MPP)"
@@ -55,7 +51,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2010
 
 [[education.courses]]
-  course = "BSc & MSc in Telecommunications Engineering "
+  course = "BSc & MSc in Telecommunications Engineering"
   institution = "Universitat Politecnica de Catalunya"
   year = 2009
 
