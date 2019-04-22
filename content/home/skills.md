@@ -17,19 +17,19 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R & SPSS, STATA, Matlab & Python"
+  name = "R, but also SPSS, STATA, Matlab & Python"
   description = ""
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics & Data Analytics"
+  name = "Data Analytics for Product Innovation and Customer Insights"
   description = ""  
 
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Teaching & people developer"
+  name = "University Guest Lecturer and People Developer"
   description = ""
 
 +++
