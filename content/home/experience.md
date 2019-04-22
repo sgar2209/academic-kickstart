@@ -37,10 +37,9 @@ date_format = "Jan 2006"
   date_start = "2014-04-01"
   date_end = "2015-09-01"
   description = """
-  Leading a team focused on gathering all the commercial and marketing requirements. By mining additional data sources I developed new tools and spreadsheet models to effectively identify trends and gain business insights.   
+  Leading a team focused on gathering all the commercial and marketing requirements. By mining additional data sources I developed new tools and spreadsheet models to effectively identify trends and gain business insights.
   """
 
-  """
 [[experience]]
   title = "SME Consultant"
   company = "The World Bank"
@@ -49,7 +48,7 @@ date_format = "Jan 2006"
   date_start = "2013-11-01"
   date_end = "2014-04-01"
   description = """
-  Contributing to the use and development of the Computational Tools projects, acting as a liaison between developers and end users, for the targeted projects in Latin America and Africa.   
+  Contributing to the use and development of the Computational Tools projects, acting as a liaison between developers and end users, for the targeted projects in Latin America and Africa.
   """
 
 [[experience]]
@@ -60,7 +59,7 @@ date_format = "Jan 2006"
   date_start = "2013-07-01"
   date_end = "2014-04-01"
   description = """
-  Running complex analyses, developing detailed economic and finance models, to facilitate decision-making on business projects evaluations involving sensitive investments, for both public and private organisations in Spain and Latin America.    
+  Running complex analyses, developing detailed economic and finance models, to facilitate decision-making on business projects evaluations involving sensitive investments, for both public and private organisations in Spain and Latin America.
   """
 
 [[experience]]
@@ -71,7 +70,7 @@ date_format = "Jan 2006"
   date_start = "2012-09-01"
   date_end = "2013-07-01"
   description = """
-  Conducting research within the higher education realm, evaluating policy effectiveness, drafting publications, and contributed to public dissertations.    
+  Conducting research within the higher education realm, evaluating policy effectiveness, drafting publications, and contributed to public dissertations.
   """
 
 [[experience]]
@@ -82,7 +81,7 @@ date_format = "Jan 2006"
   date_start = "2009-10-01"
   date_end = "2012-09-01"
   description = """
-  Focused on performance improvement of our clients' targeted activities across EU, putting forward tailored solutions, running workshops and trainings and, eventually coordinating teams.   
+  Focused on performance improvement of our clients' targeted activities across EU, putting forward tailored solutions, running workshops and trainings and, eventually coordinating teams.
   """
 
 [[experience]]
@@ -93,7 +92,7 @@ date_format = "Jan 2006"
   date_start = "2008-02-01"
   date_end = "2008-07-31"
   description = """
-  Gathering market insights to facilitate decision-making, products portfolio management, and go-to market processes review to revamp some of the existing tools.  
-  """
+  Gathering market insights to facilitate decision-making, products portfolio management, and go-to market processes review to revamp some of the existing tools.
 
+  """
 +++
