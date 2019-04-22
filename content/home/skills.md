@@ -17,14 +17,14 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "R & other statistical software"
   description = ""
 
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "python"
-  description = ""
+#[[feature]]
+#  icon = "python"
+#  icon_pack = "fab"
+#  name = "python"
+#  description = ""
 
 [[feature]]
   icon = "chart-line"
@@ -36,24 +36,6 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Teaching & people developer"
-  description = ""
-
-[[feature]]
-  icon = "hands-helping"
-  icon_pack = "fas"
-  name = "Volunteer"
-  description = ""
-
-[[feature]]
-  icon = "running"
-  icon_pack = "fas"
-  name = "Runner & sports lover"
-  description = ""
-
-[[feature]]
-  icon = "passport"
-  icon_pack = "fas"
-  name = "Traveler & World citizen"
   description = ""
 
 +++
