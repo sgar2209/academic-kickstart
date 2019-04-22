@@ -17,14 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R & other statistical software"
+  name = "R & SPSS, STATA, Matlab & Python"
   description = ""
-
-#[[feature]]
-#  icon = "python"
-#  icon_pack = "fab"
-#  name = "python"
-#  description = ""
 
 [[feature]]
   icon = "chart-line"
