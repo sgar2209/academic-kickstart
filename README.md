@@ -1,4 +1,4 @@
-# [Saul Garcia Huertes](https://saulgh.eu)
+## Personal website - [Saul Garcia Huertes](https://saulgh.eu)
 
 Personal website, that includes both professional and academic activities on a dynamic CV format.
 
