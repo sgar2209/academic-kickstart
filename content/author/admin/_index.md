@@ -37,7 +37,7 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD candidate in Economics & Innovation Management"
-  institution = "Universidad Autonoma de Madrid"
+  institution = "Universidad Autónoma de Madrid"
   year = 2019
 
 [[education.courses]]
@@ -52,7 +52,7 @@ user_groups = ["Researchers", "Visitors"]
 
 [[education.courses]]
   course = "BSc & MSc in Telecommunications Engineering"
-  institution = "Universitat Politecnica de Catalunya"
+  institution = "Universitat Politècnica de Catalunya"
   year = 2009
 
 # Social/Academic Networking
