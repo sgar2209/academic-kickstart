@@ -16,7 +16,7 @@ role = "Management Consulting Manager / PhD Candidate"
 organizations = [ { name = "Universitat Politecnica de Catalunya", url = "https://telecos.upc.edu/en" }, { name = "Universitat de Barcelona", url = "https://www.ub.edu/portal/web/economics-business" }, { name = "Maastricht University", url = "https://www.maastrichtuniversity.nl/research/maastricht-graduate-school-governance" }, { name = "Univesidad Autonoma de Madrid", url = "https://www.catedrauamaccenture.com/en/" },]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Highly committed and results-driven professional with a strong interest on innovation and relevant experience in digital transformation processes, always following a data-driven approach."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
