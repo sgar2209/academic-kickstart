@@ -91,4 +91,4 @@ user_groups = ["Researchers", "Visitors"]
 
 Seasoned Manager with +10 years experience in cross-industry business processes. Highly committed and results-driven professional with a strong interest on innovation and relevant experience in digital transformation processes, always following a data-driven approach.
 
-As a PhD candidate, I developed extensive expertise in data analytics that I recurrently apply in both professional and academic realms, with remarkable results, becoming a qualified voice able to tell the story behind the data.
+As a PhD candidate, I developed extensive expertise in data analytics that I recurrently apply in both professional and academic realms, with remarkable results, becoming a qualified voice able to tell the story behind the numbers.
