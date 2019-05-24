@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "SME Consultant"
+  title = "Short Term Consultant"
   company = "The World Bank"
   company_url = ""
   location = "Remote, home-based"
