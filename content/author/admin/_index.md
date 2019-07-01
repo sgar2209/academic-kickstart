@@ -27,7 +27,7 @@ interests = [
   "Analytics",
   "Digital Transformation",
   "Product Innovation",
-  "Agile methodologies",
+  "Scrum methodology",
 ]
 
 # Organizational groups that you belong to (for People widget)
